@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Web requirements:
+
+- structure: [example](https://rebels.cs.uwaterloo.ca/)
+- categories: [example] (https://sail.cs.queensu.ca/members.html)
+
