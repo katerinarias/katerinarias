@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## Task
 
-- [Jan 31] Structure + style fixed
-- [March 31] Content added with validated style
+- [Jan 31] Structure + style fixed.
+- [March ~10] Content added with validated style.
 
