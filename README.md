@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - structure: [example](https://rebels.cs.uwaterloo.ca/)
 - categories: [example](https://sail.cs.queensu.ca/members.html)
 
-## Task
+## Tasks
 
 - [Jan 31] Structure + style fixed.
 - [March ~10] Content added with validated style.
