@@ -1,0 +1,25 @@
+---
+name: "Knowledge Loss in Software Evolution"
+title: "Knowledge Loss in Software Evolution"
+autores: ["Mahmud Alfadel", "Farida El Zanaty"]
+venue: "ESEM 2016"
+tags: [knowledge loss, software evolution]
+categories: [ESEM, "2016", "Software Ecosystems"]
+preprint: "#"
+---
+**Authors**: [{{< meta autores.1 >}}](../members/mahmood.qmd), {{< meta autores.2 >}}  
+**Venue**: {{< meta venue >}}   
+**Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=knowledge+loss), [{{< meta categories.2 >}}](../list.qmd#category=software+evolution)  
+**Pre-print**: [PDF](#)  
+**Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+ 
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta tags.1 >}},
+}
+```

@@ -1,0 +1,25 @@
+---
+name: "Analyzing Resource Waste in Large-Scale Software Ecosystems"
+title: "Analyzing Resource Waste in Large-Scale Software Ecosystems"
+autores: ["Keheliya Gallaba", "Mahboob Alfadel"]
+venue: "EMSE 2022"
+tags: [resource waste, software ecosystems]
+categories: [EMSE, "2022", "Software Logging"]
+preprint: "#"
+---
+**Authors**: [{{< meta autores.1 >}}](../members/keheliya.qmd), {{< meta autores.2 >}}  
+**Venue**: {{< meta venue >}}   
+**Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=resource+waste), [{{< meta categories.2 >}}](../list.qmd#category=software+ecosystems)  
+**Pre-print**: [PDF](#)  
+**Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
+ 
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta tags.1 >}},
+}
+```

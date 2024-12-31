@@ -1,0 +1,8 @@
+---
+title: "Research Group"
+format: html
+---
+
+# Welcome to Our Research Group
+
+Here is some information about our research group, its goals, and ongoing projects.

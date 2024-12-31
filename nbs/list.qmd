@@ -1,0 +1,9 @@
+---
+title: List of Publications
+listing:
+    contents:
+        - "publications/*.qmd"
+    template: custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    categories: true
+---

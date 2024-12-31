@@ -1,0 +1,26 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    keep-md: true
+    page-layout: full
+  commonmark: default
+
+website:
+  navbar:
+    background: primary
+    search: true
+    logo: logo.jpg
+    left:
+      - text: Members
+        href: members.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: List
+        href: list.qmd
+
+metadata-files: [nbdev.yml]

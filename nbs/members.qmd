@@ -1,0 +1,100 @@
+---
+title: "Members"
+format: html
+---
+
+## Current Members
+
+:::: {.member-grid}
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+Researcher
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+Alumni
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+Masters Student
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+::::
+
+## Former Members
+
+:::: {.member-grid}
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+
+::: {.member}
+[![Shane McIntosh](members/shane.jpg){.member-image}](members/shane.qmd)
+[Shane McIntosh](members/shane.qmd)
+:::
+::::
