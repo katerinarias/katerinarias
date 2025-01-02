@@ -1,7 +1,7 @@
 ---
 name: "Knowledge Loss in Software Evolution"
 title: "Knowledge Loss in Software Evolution"
-autores: ["Mahmud Alfadel", "Farida El Zanaty"]
+autores: ["Shane McIntosh", "Farida El Zanaty"]
 venue: "ESEM 2016"
 tags: [knowledge loss, software evolution]
 categories: [ESEM, "2016", "Software Ecosystems"]

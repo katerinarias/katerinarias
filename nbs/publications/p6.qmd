@@ -1,7 +1,7 @@
 ---
 name: "Sonification of Software Metrics for Code Review"
 title: "Sonification of Software Metrics for Code Review"
-autores: ["Gengyi Sun", "Mingyang Yin"]
+autores: ["Shane McIntosh", "Mingyang Yin"]
 venue: "ICSME 2019"
 tags: [sonification, code review]
 categories: [ICSME, "2019", "Software Evolution"]
