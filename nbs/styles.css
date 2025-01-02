@@ -40,10 +40,60 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+
+/* Ensure the navbar spans the full width and aligns items */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+/* Use flexbox for the container to fill all available space */
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; /* Ensure it takes up the full width */
+}
+
+/* Center the navbar items */
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1; /* Fills the remaining space */
+  padding: 0;
+  margin: 0;
+}
+
+/* Optional: Control padding/margin for navbar items */
+.navbar-nav .nav-item {
+  padding: 0 10px;
+}
+
+/* Optional: Add some spacing to nav links */
+.navbar-nav .nav-link {
+  display: block;
+  padding: 10px 15px;
+}
+
 nav a:hover {
   color: #007bff;
   text-decoration: underline;
 }
+
+/* Adjust logo container to be responsive */
+.navbar-brand-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Optionally, ensure the search button stays fixed on the right */
+#quarto-search {
+  margin-left: auto; /* This ensures the search button stays on the right */
+} 
+
+
 .member {
   text-align: center;
   margin-bottom: 20px;
@@ -87,9 +137,4 @@ nav a:hover {
   display: block; /* Ensures the image takes up its own line */
   margin: 0 auto 10px; /* Centers the image and adds space below */
   text-align: center;
-}
-
-.navbar-nav {
-  display: flex;
-  justify-content: center;
 }
