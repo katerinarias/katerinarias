@@ -5,12 +5,12 @@ autores: ["Shane McIntosh", "Mingyang Yin"]
 venue: "ICSME 2019"
 tags: [sonification, code review]
 categories: [ICSME, "2019", "Software Evolution"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/gengyi.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=sonification), [{{< meta categories.2 >}}](../list.qmd#category=code+review)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
    
 

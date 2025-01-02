@@ -12,7 +12,8 @@ format:
 
 website:
   navbar:
-    background: primary
+    title: "Research Group"
+    background: "#374152"
     search: true
     logo: logo.jpg
     left:
@@ -20,7 +21,6 @@ website:
         href: members.qmd
       - text: Publications
         href: publications.qmd
-      - text: List
-        href: list.qmd
+    custom-css: styles.css
 
 metadata-files: [nbdev.yml]

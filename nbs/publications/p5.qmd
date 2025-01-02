@@ -5,12 +5,12 @@ autores: ["Faizan Khan", "Keheliya Gallaba"]
 venue: "TSE 2020"
 tags: [build performance, software quality]
 categories: [TSE, "2020", "Build Systems"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/faizan.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=build+performance), [{{< meta categories.2 >}}](../list.qmd#category=software+quality)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
 
 

@@ -5,12 +5,12 @@ autores: ["Keheliya Gallaba", "Mahboob Alfadel"]
 venue: "EMSE 2022"
 tags: [resource waste, software ecosystems]
 categories: [EMSE, "2022", "Software Logging"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/keheliya.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=resource+waste), [{{< meta categories.2 >}}](../list.qmd#category=software+ecosystems)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
  
 

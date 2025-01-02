@@ -1,0 +1,83 @@
+---
+title: "Publications"
+format: html
+---
+
+:::: {.columns}
+::: {.column width="25%"}
+**TOPIC**:
+
+- <a href="#" class="tag-filter">Tag1</a>
+- <a href="#" class="tag-filter">Tag2</a>
+- <a href="#" class="tag-filter">Tag3</a>
+- <a href="#" class="tag-filter">Tag4</a>
+:::
+
+::: {.column width="25%"}
+**MEMBER**:
+
+- <a href="#" class="tag-filter">Tag1</a>
+- <a href="#" class="tag-filter">Tag2</a>
+- <a href="#" class="tag-filter">Tag3</a>
+- <a href="#" class="tag-filter">Tag4</a>
+:::
+
+::: {.column width="25%"}
+**VENUE**:
+
+- <a href="#" class="tag-filter">Tag1</a>
+- <a href="#" class="tag-filter">Tag2</a>
+- <a href="#" class="tag-filter">Tag3</a>
+- <a href="#" class="tag-filter">Tag4</a>
+:::
+
+::: {.column width="25%"}
+**YEAR**:
+
+- <a href="#" class="tag-filter">Tag1</a>
+- <a href="#" class="tag-filter">Tag2</a>
+- <a href="#" class="tag-filter">Tag3</a>
+- <a href="#" class="tag-filter">Tag4</a>
+:::
+::::
+</br>
+
+## List of Publications
+
+<div class="publication" data-tags="Tag1, Tag3">
+  <h3><a href="publications/publication.qmd">Mitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements</a></h3>
+  <strong>Authors</strong>: [Shane McIntosh](members/shane.qmd), Filipe R. Cogo </br>
+  <strong>Venue</strong>: IEEE Transactions on Software Engineering, pp. To appear, 2024 </br>
+  <strong>Preprint</strong>: [PDF](#) </br>
+  <strong>Related Tags</strong>: <a href="#" class="tag-filter">Tag1</a>, <a href="#" class="tag-filter">Tag3</a>
+</div>
+
+<div class="publication" data-tags="Tag2, Tag4">
+  <h3><a href="publications/publication1.qmd">TITLE VERY LONG</a></h3>
+  <strong>Authors</strong>: [Shane McIntosh](members/shane.qmd), Filipe R. Cogo </br>
+  <strong>Venue</strong>: IEEE Transactions on Software Engineering, pp. To appear, 2024 </br>
+  <strong>Preprint</strong>: [PDF](#) </br>
+  <strong>Related Tags</strong>: <a href="#" class="tag-filter">Tag2</a>, <a href="#" class="tag-filter">Tag4</a>
+</div>
+
+<script>
+  document.querySelectorAll('.tag-filter').forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const tag = e.target.textContent.trim();
+      filterPublications(tag);
+    });
+  });
+
+  function filterPublications(tag) {
+    const publications = document.querySelectorAll('.publication');
+    publications.forEach(pub => {
+      const tags = pub.dataset.tags.split(', ');
+      if (tags.includes(tag)) {
+        pub.style.display = 'block';
+      } else {
+        pub.style.display = 'none';
+      }
+    });
+  }
+</script>

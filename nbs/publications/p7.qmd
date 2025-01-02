@@ -5,12 +5,12 @@ autores: ["Toshiki Hirao", "Rungroj Maipradit"]
 venue: "MSR 2018"
 tags: [flaky tests, build breakage]
 categories: [MSR, "2018", "Defect Prediction"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/toshiki.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=flaky+tests), [{{< meta categories.2 >}}](../list.qmd#category=build+breakage)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
 
 

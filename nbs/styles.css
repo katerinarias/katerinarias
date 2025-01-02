@@ -78,3 +78,18 @@ nav a:hover {
   gap: 20px; /* Adds spacing between items */
   justify-content: center; /* Centers the grid as a whole */
 }
+
+.profile-image {
+  width: 250px; /* Adjust size as needed */
+  height: 250px;
+  border: solid 1px black;
+  object-fit: cover; /* Ensures the image fits without distortion */
+  display: block; /* Ensures the image takes up its own line */
+  margin: 0 auto 10px; /* Centers the image and adds space below */
+  text-align: center;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+}

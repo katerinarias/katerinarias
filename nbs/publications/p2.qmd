@@ -5,12 +5,12 @@ autores: ["Faizan Khan", "Maxime Lamothe"]
 venue: "FSE 2023"
 tags: [continuous integration, static analysis]
 categories: [FSE, "2023", "Software Evolution"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/faizan.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=continuous+integration), [{{< meta categories.2 >}}](../list.qmd#category=static+analysis)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
   
 

@@ -1,17 +1,21 @@
 ---
 title: "Shane McIntosh"
+title-block-banner: true
 format: html
+css: ../styles.css
 listing:
     contents:
-        - "../publications/p1.qmd"
-        - "../publications/p2.qmd"
-        - "../publications/p3.qmd"
+        - "../publications/*.qmd"
     template: ../custom-listing.ejs
     fields: [title, autores, categories, venue, preprint]
-    categories: true
+    include:
+      autores: "{Shane McIntosh}"
 ---
 
-![Shane McIntosh](shane.jpg "Shane McIntosh")
+::: {.profile-image}
+![Shane McIntosh](shanemcintosh.jpg "Shane McIntosh")
+:::
+<br>
 
 **Contact Information**:
 

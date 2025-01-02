@@ -5,12 +5,12 @@ autores: ["Mahboob Alfadel", "Rungroj Maipradit"]
 venue: "ASE 2021"
 tags: [anti-patterns, software quality]
 categories: [ASE, "2021", "Software Logging"]
-preprint: "#"
+preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/mahmood.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=anti-patterns), [{{< meta categories.2 >}}](../list.qmd#category=software+quality)  
-**Pre-print**: [PDF](#)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
 
 
