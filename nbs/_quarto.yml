@@ -3,7 +3,8 @@ project:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, theme.scss]
     css: styles.css
     toc: false
     keep-md: true
@@ -12,15 +13,18 @@ format:
 
 website:
   navbar:
-    title: "Research Group"
-    background: "#374152"
+    title: "katerinarias"
     search: true
-    logo: logo.jpg
+    logo: logo.png
     left:
       - text: Members
         href: members.qmd
       - text: Publications
         href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Location
+        href: location.qmd
     custom-css: styles.css
 
 metadata-files: [nbdev.yml]

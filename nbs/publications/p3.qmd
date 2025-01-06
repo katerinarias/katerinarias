@@ -9,7 +9,7 @@ preprint: "../pdfs/tse2024_xu.pdf"
 ---
 **Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
-**Related Tags**: [{{< meta categories.1 >}}](../list.qmd#category=resource+waste), [{{< meta categories.2 >}}](../list.qmd#category=software+ecosystems)  
+**Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=resource+waste), [{{< meta categories.2 >}}](../publications.qmd#category=software+ecosystems)  
 **Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
  

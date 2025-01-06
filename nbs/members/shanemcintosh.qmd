@@ -1,6 +1,6 @@
 ---
 title: "Shane McIntosh"
-title-block-banner: true
+title-block-banner: false
 format: html
 css: ../styles.css
 listing:

@@ -6,4 +6,12 @@ listing:
     template: custom-listing.ejs
     fields: [title, autores, categories, venue, preprint]
     categories: true
+    sort-ui: [categories]
+    field-display-names:
+        categories: "Categories"
+        category-order: [
+            "2024", "2023",                              # Years first
+            "ICSE", "FSE",                               # Venues second
+            "Software Quality", "Software Evolution"      # Themes third
+        ]
 ---
