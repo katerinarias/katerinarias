@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: ""
-  site-url: "https://Baldr27.github.io/"
+  title: "katerinarias"
+  site-url: "https://Baldr27.github.io/katerinarias"
   description: ""
   repo-branch: main
-  repo-url: "https://github.com/Baldr27/"
+  repo-url: "https://github.com/Baldr27/katerinarias"
