@@ -1,0 +1,26 @@
+---
+title: "Yuki Liu"
+subtitle: "Former PhD Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Yuki Liu}"
+---
+
+::: {.profile-image}
+![Yuki Liu](../current/shanemcintosh.jpg "Yuki Liu")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Security Researcher at CyberSec Institute
+- Email: yuki.liu@example.com
+- Research Interests: Security Vulnerability Detection, Flaky Test Analysis, Test Suite Evolution

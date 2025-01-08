@@ -9,6 +9,7 @@ format:
     toc: false
     keep-md: true
     page-layout: full
+    anchor-sections: false
   commonmark: default
 
 website:

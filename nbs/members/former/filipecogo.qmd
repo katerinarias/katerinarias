@@ -1,0 +1,26 @@
+---
+title: "Filipe R. Cogo"
+subtitle: "Former PhD Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Filipe R. Cogo}"
+---
+
+::: {.profile-image}
+![Filipe R. Cogo](shanemcintosh.jpg "Filipe R. Cogo")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Research Scientist at Tech Corp
+- Email: filipe.cogo@example.com
+- Research Interests: Software Logging, Code Coverage Analysis, Software Testing

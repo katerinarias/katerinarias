@@ -125,9 +125,19 @@ body {
 
 .member-grid {
   display: flex;
-  flex-wrap: wrap; /* Allows items to wrap onto the next row */
-  gap: 20px; /* Adds spacing between items */
-  justify-content: center; /* Centers the grid as a whole */
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.member-grid li {
+  width: 250px;
+  text-align: center;
+}
+
+.member-grid h3 {
+  margin: 0.5rem 0;
+  justify-content: center;
 }
 
 .profile-image {
