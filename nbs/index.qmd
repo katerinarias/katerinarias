@@ -7,7 +7,4 @@ format: html
 
 Here is some information about our research group, its goals, and ongoing projects.
 
-
-# Noticias
-
-Lista de noticias
+# Latest News
