@@ -2,8 +2,8 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/katerinarias',
-                'doc_host': 'https://Baldr27.github.io',
-                'git_url': 'https://github.com/Baldr27/katerinarias',
+                'doc_host': 'https://katerinarias.github.io',
+                'git_url': 'https://github.com/katerinarias/katerinarias',
                 'lib_path': ''},
   'syms': { 'research-group-nbdev.core': {'research-group-nbdev.core.foo': ('core.html#foo', 'research-group-nbdev/core.py')},
             'research-group-nbdev.setup': {}}}
