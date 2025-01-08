@@ -24,3 +24,7 @@ listing:
 - Email: faizan.khan@example.com   
 - Affiliation: Research Group
 - Research Interests: Continuous Integration, Static Analysis, Software Quality
+
+**About me**:
+
+I am a PhD student researching ways to improve software quality through advanced continuous integration practices and static analysis techniques. My work focuses on developing and enhancing tools that help development teams catch potential issues early in the development cycle. I am particularly interested in creating more efficient and accurate static analysis methods that can be seamlessly integrated into CI pipelines.

@@ -24,11 +24,6 @@ listing:
 - Email: member@example.com   
 - Affiliation: Research Group
 
-<!-- **Publications**:
-<div class="publication" data-tags="Tag1, Tag3">
-  <h3><a href="publications/publication.qmd">Mitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements</a></h3>
-  <strong>Authors</strong>: [Shane McIntosh](members/shane.qmd), Filipe R. Cogo </br>
-  <strong>Venue</strong>: IEEE Transactions on Software Engineering, pp. To appear, 2024 </br>
-  <strong>Preprint</strong>: [PDF](#) </br>
-  <strong>Related Tags</strong>: <a href="#" class="tag-filter">Tag1</a>, <a href="#" class="tag-filter">Tag3</a>
-</div> -->
+**About me**:
+
+I am a Professor specializing in software engineering research. My research interests focus on software build systems, software quality assurance, and mining software repositories. I work on developing techniques and tools to help software teams build and maintain high-quality software systems more effectively.

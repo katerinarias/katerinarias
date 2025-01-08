@@ -24,3 +24,7 @@ listing:
 - Email: raj.patel@example.com   
 - Affiliation: Research Group
 - Research Interests: Code Review Analytics, Developer Productivity Metrics, Knowledge Management
+
+**About me**:
+
+I am an MSc student focusing on improving software development processes through data-driven insights. My research explores how to enhance code review practices and measure developer productivity effectively. I am particularly interested in understanding how knowledge flows through development teams and creating tools that can help capture and share this knowledge more efficiently.

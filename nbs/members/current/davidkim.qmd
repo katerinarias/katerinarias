@@ -24,3 +24,7 @@ listing:
 - Email: david.kim@example.com   
 - Affiliation: Research Group
 - Research Interests: Machine Learning for Static Analysis, Code Quality Prediction, Security Vulnerability Detection
+
+**About me**:
+
+I am a PhD student focusing on the intersection of machine learning and software engineering. My research explores innovative applications of ML techniques to enhance static code analysis, predict code quality metrics, and detect potential security vulnerabilities in software systems. Through my work, I aim to develop more accurate and efficient automated tools for software quality assurance.

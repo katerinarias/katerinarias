@@ -24,3 +24,7 @@ listing:
 - Current Position: Research Scientist at Tech Corp
 - Email: filipe.cogo@example.com
 - Research Interests: Software Logging, Code Coverage Analysis, Software Testing
+
+**About me**:
+
+During my PhD research, I specialized in improving software quality through advanced logging and testing techniques. My work focused on developing more accurate code coverage analysis methods and enhancing software logging practices. Currently, as a Research Scientist at Tech Corp, I continue to advance the field of software testing and analysis, working on innovative solutions to help teams better understand and verify their software systems.
