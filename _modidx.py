@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://katerinarias.github.io',
                 'git_url': 'https://github.com/katerinarias/katerinarias',
                 'lib_path': ''},
-  'syms': { 'research-group-nbdev.core': {'research-group-nbdev.core.foo': ('core.html#foo', 'research-group-nbdev/core.py')},
-            'research-group-nbdev.setup': {}}}
+  'syms': {'katerinarias.core': {'katerinarias.core.foo': ('core.html#foo', 'katerinarias/core.py')}, 'katerinarias.setup': {}}}
