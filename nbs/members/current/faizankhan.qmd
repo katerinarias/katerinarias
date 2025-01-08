@@ -4,7 +4,7 @@ subtitle: "PhD Student"
 image: "shanemcintosh.jpg"
 title-block-banner: false
 format: html
-css: ../styles.css
+css: ../../styles.css
 listing:
     contents:
         - "../../publications/*.qmd"

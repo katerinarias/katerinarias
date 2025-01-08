@@ -7,7 +7,7 @@ tags: [build breakage, defect prediction]
 categories: [ICSE, "2024", "Software Quality"]
 preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/current/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=build+breakage), [{{< meta categories.2 >}}](../publications.qmd#category=defect+prediction)  
 **Pre-print**: [PDF]({{< meta preprint >}})  

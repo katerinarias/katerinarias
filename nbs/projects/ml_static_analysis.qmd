@@ -6,7 +6,7 @@ status: "Active"
 categories: ["Active", "Program Analysis", "Machine Learning"]
 github: "https://github.com/research-group/ml-static-analysis"
 ---
-**Team Members**: [{{< meta members.1 >}}](../members/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
 **Status**: {{< meta status >}}  
 **Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Program+Analysis), [{{< meta categories.3 >}}](../projects.qmd#category=Machine+Learning)  
 **GitHub**: [Repository]({{< meta github >}})

@@ -6,7 +6,7 @@ status: "Active"
 categories: ["Active", "Build Systems", "Machine Learning"]
 github: "https://github.com/research-group/build-predictor"
 ---
-**Team Members**: [{{< meta members.1 >}}](../members/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
 **Status**: {{< meta status >}}  
 **Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Build+Systems), [{{< meta categories.3 >}}](../projects.qmd#category=Machine+Learning)  
 **GitHub**: [Repository]({{< meta github >}})

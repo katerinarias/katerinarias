@@ -7,7 +7,7 @@ tags: [knowledge loss, software evolution]
 categories: [ESEM, "2016", "Software Ecosystems"]
 preprint: "../pdfs/tse2024_xu.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/shanemcintosh.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/current/shanemcintosh.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
 **Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=knowledge+loss), [{{< meta categories.2 >}}](../publications.qmd#category=software+evolution)  
 **Pre-print**: [PDF]({{< meta preprint >}})  

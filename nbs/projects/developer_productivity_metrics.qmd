@@ -6,7 +6,7 @@ status: "Active"
 categories: ["Active", "Software Evolution", "Software Metrics"]
 github: "https://github.com/research-group/dev-analytics"
 ---
-**Team Members**: [{{< meta members.1 >}}](../members/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
 **Status**: {{< meta status >}}  
 **Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Software+Metrics)  
 **GitHub**: [Repository]({{< meta github >}})
