@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Web requirements:
-
-- structure: [example](https://rebels.cs.uwaterloo.ca/)
-- categories: [example](https://sail.cs.queensu.ca/members.html)
-
-## Tasks
-
-- [Jan 31] Structure + style fixed.
-- [March ~10] Content added with validated style.
 
