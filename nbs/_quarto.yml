@@ -4,7 +4,8 @@ project:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss]
+      light: [lightly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
     css: styles.css
     toc: false
     keep-md: true
