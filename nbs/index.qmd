@@ -17,6 +17,10 @@ listing:
 
 # Welcome to Our Research Group
 
+::: {.group-photo}
+![Our Research Group at XXXXXXX](./assets/groupphoto.jpg "Group Photo")
+:::
+
 ## About Us
 
 We are a dynamic research group focused on advancing the field of software engineering through innovative research and practical applications. Our team combines expertise in software development, empirical studies, and machine learning to tackle challenging problems in modern software development practices. We collaborate with industry partners and academic institutions worldwide to drive impactful research that shapes the future of software engineering.

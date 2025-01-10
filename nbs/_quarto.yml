@@ -16,7 +16,7 @@ website:
   navbar:
     title: "katerinarias"
     search: true
-    logo: logo.png
+    logo: ./assets/logo.png
     left:
       - text: Members
         href: members.qmd
@@ -24,8 +24,8 @@ website:
         href: publications.qmd
       - text: Projects
         href: projects.qmd
-      - text: Location
-        href: location.qmd
+      - text: Contact
+        href: contact.qmd
     custom-css: styles.css
 
 metadata-files: [nbdev.yml]

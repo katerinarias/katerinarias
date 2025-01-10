@@ -6,9 +6,9 @@
 
 ## Requeriments:
 
-- En el ``home``, antes de ``About Us``, debe haber una imágen (que será una foto del grupo de investigadores).
-- En cada ``member``, luego de ``About me:`` se deben listar las ``Publications``. Esta sección debe listar solo los artículos en que el ``member`` está asociado como autor.
-- ``Location`` debe ser denominada ``Contact``.
+- ✔ En el ``home``, antes de ``About Us``, debe haber una imágen (que será una foto del grupo de investigadores).
+- ✔ En cada ``member``, luego de ``About me:`` se deben listar las ``Publications``. Esta sección debe listar solo los artículos en que el ``member`` está asociado como autor.
+- ✔ ``Location`` debe ser denominada ``Contact``.
 - opción para doble idioma:
     - 1.- Debería haber un ícono con ``bandera`` en la barra de navegación.
     - 1.- duplicar páginas (lo más sencillo).
