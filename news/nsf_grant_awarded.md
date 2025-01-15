@@ -1,0 +1,10 @@
+# NSF Grant Awarded for AI-Powered Code Review Research
+
+2024-01-15
+
+Our research group has been awarded a substantial NSF grant to
+investigate AI-powered code review processes. The three-year project
+will focus on developing intelligent systems that can automatically
+identify potential bugs, security vulnerabilities, and maintenance
+issues in code changes, while providing actionable feedback to
+developers.

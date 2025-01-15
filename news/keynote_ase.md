@@ -1,0 +1,9 @@
+# Professor McIntosh Delivers Keynote at ASE 2023
+
+2023-12-10
+
+Professor Shane McIntosh delivered a keynote speech at the 38th IEEE/ACM
+International Conference on Automated Software Engineering (ASE 2023).
+His talk, titled “The Future of Automated Build Systems,” highlighted
+emerging trends in build automation and presented our group’s latest
+findings on build optimization techniques.

@@ -1,0 +1,11 @@
+# Research Group Awarded Major Grant
+
+2024-02-01
+
+We are pleased to announce that our research group has received a major
+grant to study software testing practices in large-scale systems. This
+funding will support our ongoing work in improving software quality and
+reliability.
+
+The project will begin in March 2024 and will involve collaboration with
+several industry partners.
